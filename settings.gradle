@@ -1,0 +1,18 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolution {
+    versionCatalogs {
+        libs {
+            // Define your library versions here
+            // version('android-api', '34')
+        }
+    }
+}
+
+rootProject.name = "YouReview"
+include ':app'
