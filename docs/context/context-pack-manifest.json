@@ -1,0 +1,54 @@
+{
+  "packVersion": 1,
+  "project": "youreview",
+  "repository": "C:\\Software Dev\\YouReview",
+  "status": "published-hash-verified",
+  "sources": [
+    {
+      "path": "README.md",
+      "classification": "purpose-and-supported-commands",
+      "sha256": "fce84e35be05e3c47ae23ded0fc64fa781f00c77e768ab40ed223fa26aeef4a5"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "classification": "architecture-and-runtime-boundaries",
+      "sha256": "d376f5daf111c6946421da62ccf14f7cf6d29c5b8f17467476babac9def3943f"
+    }
+  ],
+  "generatedFiles": [
+    "docs/context/CONTEXT_INDEX.md",
+    "docs/context/01-current-state-overview.md",
+    "docs/context/02-system-architecture-and-runtime.md",
+    "docs/context/03-open-work-and-risks.md",
+    "docs/context/complete-context.md",
+    "docs/context/context-pack-manifest.json"
+  ],
+  "exclusions": [
+    "generated output",
+    "dependencies",
+    "credentials and environment files",
+    "databases",
+    "archives",
+    "media"
+  ],
+  "publication": {
+    "configured": true,
+    "destination": "G:\\My Drive\\1-Context Packs\\youreview",
+    "managedFiles": [
+      "CONTEXT_INDEX.md",
+      "01-current-state-overview.md",
+      "02-system-architecture-and-runtime.md",
+      "03-open-work-and-risks.md",
+      "complete-context.md",
+      "context-pack-manifest.json"
+    ]
+  },
+  "validation": {
+    "sourceHashesNormalisedToLf": true,
+    "sourcePathsChecked": true,
+    "externalPublicationVerified": true,
+    "notes": "Published by the Harness context-pack refresh; managed files and recorded authority sources were normalised-content hash-verified.",
+    "publishedAt": "2026-08-21T16:32:23.353Z"
+  },
+  "snapshotSourceModifiedAt": "2026-07-21T11:34:19.380Z"
+}
